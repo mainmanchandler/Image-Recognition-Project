@@ -1,4 +1,8 @@
+# Ignore output folders
 Matches/*
 Detected_Objects/*
 Keypoints/*
 Stitched/*
+
+# Never ignore .keep files
+!*/.keep
