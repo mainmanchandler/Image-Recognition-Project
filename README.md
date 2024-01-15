@@ -1,1 +1,1 @@
-This was the image recognition project my friend and I did for our Image Processing class. It matches objects to images using their keypoints and is overall pretty self-explanatory using Python OpenCV.
+This was the image recognition project my friend and I did for our Image Processing class. Uses Python OpenCV library.
